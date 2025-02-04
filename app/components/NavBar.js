@@ -9,7 +9,7 @@ export default function NavBar() {
   return (
     <header className='header'>
       <div className='logo'>
-        <Link href='/'>FinTeck Solutions</Link>
+        <Link href='/'>FinTech Solutions</Link>
       </div>
       <div
         className='menu'
