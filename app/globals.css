@@ -348,6 +348,7 @@ a:hover {
   background-color: #f0f8ff;
   padding: 4rem 2rem;
   text-align: center;
+  color: rgb(0, 128, 255);
 }
 
 .footer p {
